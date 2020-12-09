@@ -25,7 +25,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="left|center_vertical"
-            android:inputType="text"
             android:ems="10" />
 
     </TableRow>
@@ -48,7 +47,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="left|center_vertical"
-            android:inputType="text"
             android:ems="10" >
 
             <requestFocus />
@@ -74,7 +72,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="left|center_vertical"
-            android:inputType="text"
             android:ems="10" />
 
     </TableRow>
@@ -97,7 +94,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="left"
-            android:inputType="text"
             android:ems="10" />
 
     </TableRow>
